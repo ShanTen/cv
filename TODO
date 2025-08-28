@@ -1,0 +1,11 @@
+Resume Fix:
+    1. Add Education to Top
+    2. Remove IITM BS CGPA [dpne]
+    3. Change Education order => SRM - School - IITM BS [dpne]
+    4. Rename 10th and 12th to be more concise [dpne]
+    5. Add Projects and make a 2 page version 
+
+Flow Fix:
+    1. Add GH actions for releases 
+    2. cleanup .docx files and use only 1 file for version control
+    3. Connect latest release to a new PDF viewer on website (parallel development)
